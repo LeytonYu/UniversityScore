@@ -1,9 +1,0 @@
-[submodule "CTDataProtos"]
-	path = CTDataProtos
-	url = ssh://git@git.cingta.com:3022/CTProtos/CTDataProtos.git
-[submodule "ResumeCleanProtos"]
-	path = ResumeCleanProtos
-	url = ssh://git@git.cingta.com:3022/CTProtos/ResumeCleanProtos.git
-[submodule "login_register"]
-	path = login_register
-	url = git@github.com:LeytonYu/login_register.git
