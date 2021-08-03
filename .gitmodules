@@ -1,0 +1,3 @@
+[submodule "CTDataProtos"]
+	path = CTDataProtos
+	url = ssh://git@git.cingta.com:3022/CTProtos/CTDataProtos.git

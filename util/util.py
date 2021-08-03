@@ -34,6 +34,16 @@ def json_to_str(value):
         return []
 
 
+def str_to_json(value):
+    if value:
+        try:
+            return json.loads(value)
+        except:
+            return []
+    else:
+        return []
+
+
 if __name__ == '__main__':
     s = """Accept: */*
 Accept-Encoding: gzip, deflate, br
